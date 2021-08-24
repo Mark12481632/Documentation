@@ -1,0 +1,6 @@
+Setting the Java JDK using SDKMAN:
+==================================
+use sdk, e.g.:
+  sdk update            (update sdk itesel)
+  sdk install Java      (installs latest b^version of java)
+  sdk install scala     (installs latest b^version of scala)
