@@ -1,2 +1,2 @@
 # Documentation
-General Documentation for my Workstations
+General Documentation for My Workstations
